@@ -1,4 +1,4 @@
-# Crew Roster Optimization POC
+# Crew Roster Optimization
 
 This is a proof-of-concept for a crew rostering optimization system. It consists of a Python backend that handles the optimization logic and a React frontend for the user interface.
 

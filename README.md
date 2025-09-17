@@ -1,4 +1,4 @@
-# ✈️ Crew Rostering System — AI-Powered OR-Tools + Chroma RAG
+# ✈️ Crew Rostering System — AI-Powered OR-Tools + RAG
 
 <div align="center">
 

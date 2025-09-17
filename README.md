@@ -527,6 +527,5 @@ echo "VITE_API_BASE_URL=http://localhost:8000" > .env.local
 
 *Built with ❤️ for the aviation industry using cutting-edge AI and optimization technology*
 
-**Version 0.4.0** | **Last Updated: January 2025** | **Made with OR-Tools + ChromaDB + React**
 
 </div>

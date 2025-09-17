@@ -155,6 +155,7 @@ GROQ_API_KEY=your_groq_api_key_here
 TIMEZONE=Asia/Kolkata
 DATABASE_URL=sqlite:///crew_roster.db
 LOG_LEVEL=INFO
+OPENWEATHERMAP_API_KEY=your_openweathermap_api_key_here
 ```
 
 **Start Backend Server:**

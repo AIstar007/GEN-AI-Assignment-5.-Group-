@@ -497,7 +497,7 @@ echo "VITE_API_BASE_URL=http://localhost:8000" > .env.local
 - **Validation**: Built-in compliance checking
 - **Flexibility**: Configurable rules engine
 
-```
+---
 
 ### **Development Workflow**
 
